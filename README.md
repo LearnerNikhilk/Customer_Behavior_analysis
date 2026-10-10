@@ -34,6 +34,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 git clone [https://github.com/LearnerNikhilk/Customer_Behavior_analysis.git](https://github.com/LearnerNikhilk/Customer_Behavior_analysis.git)
 cd Customer_Behavior_analysis
 
+```
 ### 2. Run the Jupyter Notebook
 Open **`customer_shopping_behavior_Analysis.ipynb`** to cover:
 * Data Import & Exploration
